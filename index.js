@@ -7,7 +7,7 @@ const Self_Args = process.argv.slice(2)
 
 //Main
 if(!Self_Args.length){
-    console.log("node index.js <amount> <output>")
+    console.log("node index.js <10000> <15000>")
     process.exit()
 }
 
